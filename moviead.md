@@ -2,6 +2,10 @@
 
 One of GumGum's core businesses is high-impact interactive web advertising. One of our products is called an 'in-screen' ad unit. 
 
+We'd like you to create an animated in-screen ad unit for an upcoming movie - you can pick whatever movie you'd like. You 'll need to scrape assets for it from web. 
+
+Besides the specs listed above, this unit also needs to include some dynamic content. Specifically, if a user enters their zip code into an input, it should pull theater and showtime information for the movie into the ad unit itself and drive traffic to the site where tickets can be purchased.
+
 ### In-Screen Ad Unit Specs
 - HTML5 / CSS / Javascript
 - No Flash (yuck!)
@@ -10,12 +14,7 @@ One of GumGum's core businesses is high-impact interactive web advertising. One 
 - Retina assets 
 - Animated
 - Fixed to the bottom of your browser
-
-You can view an example of one here: https://gallery.gumgum.com/in-screen/pbs-victoria/tablet
-
-We'd like you to create an animated in-screen ad unit for an upcoming movie - you can pick whatever movie you'd like. You 'll need to scrape assets for it from web. 
-
-Besides the specs listed above, this unit also needs to include some dynamic content. Specifically, if a user enters their zip code into an input, it should pull theater and showtime information for the movie into the ad unit itself and drive traffic to the site where tickets can be purchased.
+- [Example](https://gallery.gumgum.com/in-screen/pbs-victoria/tablet)
 
 ### Things to consider:
  - How do you display / browse mulitple showtimes for the movie?
