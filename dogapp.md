@@ -16,7 +16,7 @@ You can submit the app to us in any way you like. Suggestions include using Crea
  - [More Documentation Here](http://ds.gumgum.com/stable/css/)
 
 ### Things to Consider:
- - How will this tool work across both desktop and mobile devices
+ - How will your layout work across both desktop and mobile devices
  - How do you allow users to browse breeds?
  - How do you juggle both real and perceptual page load speeds to ensure a smooth user experience.
 
