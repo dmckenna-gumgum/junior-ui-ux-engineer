@@ -14,5 +14,10 @@ Our team works on a wide variety of projects and our members are required to hav
 
 ### Things to consider
 - Please be considerate while coding and consider how your code might be read/understood by other people.
-- We prefer ES6!
+- Remember that good code is only part of the evaluation - we also want you to show off your design skills!
 - If you have any questions or suggestions, please ask or let us know!
+
+## Exercises
+- [Dog App](./dogapp.md)
+- [Movie Ad](./moviead.md)
+- [UI Component](./uicomponent.md)
