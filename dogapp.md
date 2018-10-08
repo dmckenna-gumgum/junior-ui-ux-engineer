@@ -13,7 +13,7 @@ You can submit the app to us in any way you like. Suggestions include using Crea
  - App should be written in HTML/CSS/JS (ideally utilizing React)
  - UI should be clear, intuitive and aesthetically pleasing
  - Bonus points if you utilize [GumGum's Design System](http://ds.gumgum.com/stable/)
- - [More Documentation Here](http://ds.gumgum.com/stable/css/)
+ - [More Documentation Here](http://ds.gumgum.com/stable/md/docs/index.html)
 
 ### Things to Consider:
  - How will your layout work across both desktop and mobile devices
