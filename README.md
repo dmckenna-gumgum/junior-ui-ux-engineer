@@ -1,4 +1,4 @@
-# Junior Product Design Engineer
+# Product Design Engineer
 ---
 ## Introduction
 Welcome! Thank you for your interest in working on the GumGum Product Design team!
